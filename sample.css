@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.welcomeText{
+    color: blueviolet;
+}
+.welcomeButton{
+    color: white;
+    background-color: black;
+}
+.welcomeButton:hover{
+    color: black;
+    background-color: white;
+    border: 2;
+}
